@@ -1,4 +1,7 @@
-## Hi there 👋 # I am Mehedi Hasan
+## > Hi there 👋  I am Mehedi Hasan
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1000&color=005700&width=800&lines=Creating+dynamic+web+experiences+with+code+%F0%9F%9A%80+and+design+%F0%9F%8C%88)](https://github.com/mehedihasan)
+
 
 I'm a passionate web designer and developer with expertise in PHP Laravel. I enjoy creating dynamic, user-friendly web applications that blend clean design with seamless functionality.
 
@@ -15,6 +18,14 @@ I'm a passionate web designer and developer with expertise in PHP Laravel. I enj
 📚 In my free time, I’m exploring the latest tech trends and improving my problem-solving skills through coding challenges.
 
 🎯 Goals: To become a full-stack developer proficient in both front-end and back-end technologies.
+
+
+## 🤝 Let’s Build a Network Together! 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedihasan/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasansamrat.mhs01@gmail.com)
+[![](https://visitcount.itsvg.in/api?id=mehedihasan&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/mehedihasan)
+
+
 
 ## 🛠️ Technologies & Tools
 
