@@ -1,5 +1,5 @@
-##Hi there 👋
-#I am Mehedi Hasan
+## Hi there 👋
+# I am Mehedi Hasan
 
 I'm a passionate web designer and developer with expertise in PHP Laravel. I enjoy creating dynamic, user-friendly web applications that blend clean design with seamless functionality.
 
