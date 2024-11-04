@@ -4,12 +4,6 @@ I'm a passionate web designer and developer with expertise in PHP Laravel. I enj
 
 🚀 I’m currently working at Primeasia University as a web developer, focusing on building and maintaining dynamic web applications. 💻
 
-🌱 I’m currently learning React.js to enhance my front-end development skills and create more interactive, responsive user experiences. 🔧
-
-🤝 I’m looking to collaborate on innovative web development projects involving PHP Laravel and React.js. 🤝
-
-💡 I’m looking for help with mastering advanced front-end frameworks and optimizing web performance. 📈
-
 💬 Ask me about web development, PHP Laravel, UI/UX design, or my experience learning React.js. 💬
 
 📧 How to reach me: mehedi009@primeasia.edu.bd ✉️
