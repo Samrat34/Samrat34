@@ -1,5 +1,5 @@
 ## > Hi there 👋  I am Mehedi Hasan
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1000&color=005700&width=800&lines=Creating+dynamic+web+experiences+with+code+%F0%9F%9A%80+and+design+%F0%9F%8C%88)](https://github.com/mehedihasan)
 
 
