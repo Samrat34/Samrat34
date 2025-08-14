@@ -9,7 +9,7 @@ I'm a passionate web designer and developer with expertise in PHP Laravel. I enj
 
 💬 Ask me about web development, PHP Laravel, UI/UX design, or my experience learning React.js.
 
-📧 How to reach me: mehedi009@primeasia.edu.bd
+📧 How to reach me: mehedihasansamrat.mhs01@gmail.com
 
 ✨ Fun fact: I enjoy incorporating unique design elements into my projects to make them stand out.
 
