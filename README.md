@@ -46,7 +46,7 @@ I'm a passionate web designer and developer with expertise in PHP Laravel. I enj
 
 
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate <b> Full-Stack</b>b> developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat34&label=Profile%20views&color=0e75b6&style=flat" alt="samrat34" /> </p>
 
